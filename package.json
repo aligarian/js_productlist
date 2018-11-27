@@ -1,0 +1,22 @@
+{
+  "name": "js_productlist",
+  "version": "1.0.0",
+  "description": "Product list page in js and css.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligarian/js_productlist.git"
+  },
+  "author": "Ammar Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligarian/js_productlist/issues"
+  },
+  "homepage": "https://github.com/aligarian/js_productlist#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
